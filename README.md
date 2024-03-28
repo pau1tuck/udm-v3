@@ -1,4 +1,4 @@
-# Boilerplate and Starter for Next.js 14+, Tailwind CSS 3.4, and TypeScript.
+# Boilerplate and Starter for Next.js 14+, Tailwind CSS 3.4, and TypeScript
 
 <p align="center">
   <a href="https://creativedesignsguru.com/demo/Nextjs-Boilerplate/"><img height="300" src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Next js starter banner"></a>
@@ -177,7 +177,7 @@ Then, you can run the project locally in development mode with live reload by ex
 npm run dev
 ```
 
-Open http://localhost:3000 with your favorite browser to see your project.
+Open <http://localhost:3000> with your favorite browser to see your project.
 
 ### Set up authentication
 
@@ -267,7 +267,7 @@ After defining the environment variables in your GitHub Actions, your localizati
 
 You can easily configure Next js Boilerplate by making a search in the whole project with `FIXME:` for making quick customization. Here is some of the most important files to customize:
 
-- `public/apple-touch-icon.png`, `public/favicon.ico`, `public/favicon-16x16.png` and `public/favicon-32x32.png`: your website favicon, you can generate from https://favicon.io/favicon-converter/
+- `public/apple-touch-icon.png`, `public/favicon.ico`, `public/favicon-16x16.png` and `public/favicon-32x32.png`: your website favicon, you can generate from <https://favicon.io/favicon-converter/>
 - `src/utils/AppConfig.ts`: configuration file
 - `src/templates/BaseTemplate.tsx`: default theme
 - `next.config.mjs`: Next.js configuration
@@ -334,18 +334,18 @@ During the build process, the database migration is automatically executed. So, 
 Then, you can generate a production build with:
 
 ```shell
-$ npm run build
+npm run build
 ```
 
 It generates an optimized production build of the boilerplate. For testing the generated build, you can run:
 
 ```shell
-$ npm run start
+npm run start
 ```
 
 You also need to defined the environment variables `CLERK_SECRET_KEY` using your own key.
 
-The command starts a local server with the production build. Then, you can now open http://localhost:3000 with your favorite browser to see the project.
+The command starts a local server with the production build. Then, you can now open <http://localhost:3000> with your favorite browser to see the project.
 
 ### Deploy to Netlify
 
@@ -403,7 +403,7 @@ The project is already configured with Drizzle Studio to explore the database. Y
 npm run db:studio
 ```
 
-Then, you can open https://local.drizzle.studio with your favorite browser to explore your database.
+Then, you can open <https://local.drizzle.studio> with your favorite browser to explore your database.
 
 ### Known warnings
 

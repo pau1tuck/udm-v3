@@ -8,12 +8,12 @@
         "sign_up_link": "Sign up"
     },
     "BaseTemplate": {
-        "description": "Computer Science and Software Engineering Consultant",
+        "description": "Delivering the finest new underground house and techno.",
         "made_with": "Made with Python Django, PostgreSQL, and Next.js."
     },
     "Index": {
-        "meta_title": "LLOYD TUCK",
-        "meta_description": "Learn to Code."
+        "meta_title": "UDM | Underground Dance Music",
+        "meta_description": "Delivering the finest new underground house and techno."
     },
     "Guestbook": {
         "meta_title": "Learn",

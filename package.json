@@ -29,6 +29,7 @@
         "postbuild": "next-sitemap"
     },
     "dependencies": {
+        "@biomejs/biome": "^1.6.3",
         "@clerk/localizations": "^1.26.16",
         "@clerk/nextjs": "^4.29.9",
         "@hookform/resolvers": "^3.3.4",
