@@ -26,7 +26,8 @@
                 "noUnusedVariables": "warn"
             },
             "style": {
-                "useNamingConvention": "warn"
+                "useNamingConvention": "warn",
+                "noDefaultExport": "off"
             },
             "suspicious": {
                 "noConsoleLog": "warn"
